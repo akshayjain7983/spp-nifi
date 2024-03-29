@@ -1,4 +1,6 @@
 flows:
+  3ded3f4c-6314-4f55-a549-b064d7b3366e: {ver: 1, file: SPP-ML-Training.snapshot, comments: '',
+    author: anonymous, created: 1711679959814, flowName: SPP-ML-Training, flowDesc: ''}
   83a63887-d545-437d-a274-a9e6b99da4c9: {ver: 1, file: spp-data-nifi.snapshot, comments: '',
     author: anonymous, created: 1711678380214, flowName: spp-data-nifi, flowDesc: ''}
   118041e3-257c-4f43-8f5e-c1a8e0613c14: {ver: 1, file: BSE-Data.snapshot, comments: '',

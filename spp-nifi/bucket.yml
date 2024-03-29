@@ -1,5 +1,7 @@
 flows:
   83a63887-d545-437d-a274-a9e6b99da4c9: {ver: 1, file: spp-data-nifi.snapshot, comments: '',
     author: anonymous, created: 1711678380214, flowName: spp-data-nifi, flowDesc: ''}
+  118041e3-257c-4f43-8f5e-c1a8e0613c14: {ver: 1, file: BSE-Data.snapshot, comments: '',
+    author: anonymous, created: 1711679557965, flowName: BSE-Data, flowDesc: ''}
 layoutVer: 1
 bucketId: 06fb0d96-5dc0-44bf-8536-c16da9fba8a5

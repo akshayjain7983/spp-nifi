@@ -8,6 +8,9 @@ flows:
     author: anonymous, created: 1726893114512, flowName: TrainingPScore, flowDesc: ''}
   83a63887-d545-437d-a274-a9e6b99da4c9: {ver: 1, file: spp-data-nifi.snapshot, comments: '',
     author: anonymous, created: 1711678380214, flowName: spp-data-nifi, flowDesc: ''}
+  8d03aac0-9984-402a-aba9-ab446ef01e66: {ver: 1, file: LoadBSESecurityPricesDailyAllSecuritySingleDate.snapshot,
+    comments: '', author: anonymous, created: 1726893667654, flowName: LoadBSESecurityPricesDailyAllSecuritySingleDate,
+    flowDesc: ''}
   118041e3-257c-4f43-8f5e-c1a8e0613c14: {ver: 1, file: BSE-Data.snapshot, comments: '',
     author: anonymous, created: 1711679557965, flowName: BSE-Data, flowDesc: ''}
   2183c9b5-3cfd-4bce-ada3-fb97700956f6: {ver: 1, file: LoadBSESecuritiesRefData.snapshot,

@@ -1,4 +1,7 @@
 flows:
+  e432f34f-2e3b-43f4-91c0-67b398fbdfef: {ver: 1, file: AlphavantageAnalytics.snapshot,
+    comments: '', author: anonymous, created: 1726893721265, flowName: AlphavantageAnalytics,
+    flowDesc: ''}
   65bc30ce-16bf-4b57-a72d-dfea1f78a30e: {ver: 1, file: CalculateIndexReturns.snapshot,
     comments: '', author: anonymous, created: 1726893104695, flowName: CalculateIndexReturns,
     flowDesc: ''}

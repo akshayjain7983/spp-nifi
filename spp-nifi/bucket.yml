@@ -9,8 +9,8 @@ flows:
     author: anonymous, created: 1726893132923, flowName: SPP-ML-Training, flowDesc: ''}
   1f528191-f44b-4ef9-b421-27035b921c8d: {ver: 1, file: TrainingPScore.snapshot, comments: '',
     author: anonymous, created: 1726893114512, flowName: TrainingPScore, flowDesc: ''}
-  83a63887-d545-437d-a274-a9e6b99da4c9: {ver: 1, file: spp-data-nifi.snapshot, comments: '',
-    author: anonymous, created: 1711678380214, flowName: spp-data-nifi, flowDesc: ''}
+  83a63887-d545-437d-a274-a9e6b99da4c9: {ver: 2, file: spp-data-nifi.snapshot, comments: '',
+    author: anonymous, created: 1726893727308, flowName: spp-data-nifi, flowDesc: ''}
   642eef04-b49b-4d3c-9adf-53cbd2bed4b2: {ver: 1, file: LoadBSESecurityPricesHistoricalBySecurityAndPeriod.snapshot,
     comments: '', author: anonymous, created: 1726893681015, flowName: LoadBSESecurityPricesHistoricalBySecurityAndPeriod,
     flowDesc: ''}

@@ -10,5 +10,8 @@ flows:
     author: anonymous, created: 1711678380214, flowName: spp-data-nifi, flowDesc: ''}
   118041e3-257c-4f43-8f5e-c1a8e0613c14: {ver: 1, file: BSE-Data.snapshot, comments: '',
     author: anonymous, created: 1711679557965, flowName: BSE-Data, flowDesc: ''}
+  eab9a64d-89f1-48d0-986c-57e3090c0d4b: {ver: 1, file: CalculateSecurityReturns.snapshot,
+    comments: '', author: anonymous, created: 1726893123540, flowName: CalculateSecurityReturns,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: 06fb0d96-5dc0-44bf-8536-c16da9fba8a5

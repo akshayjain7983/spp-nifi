@@ -1,4 +1,7 @@
 flows:
+  65bc30ce-16bf-4b57-a72d-dfea1f78a30e: {ver: 1, file: CalculateIndexReturns.snapshot,
+    comments: '', author: anonymous, created: 1726893104695, flowName: CalculateIndexReturns,
+    flowDesc: ''}
   3ded3f4c-6314-4f55-a549-b064d7b3366e: {ver: 1, file: SPP-ML-Training.snapshot, comments: '',
     author: anonymous, created: 1711679959814, flowName: SPP-ML-Training, flowDesc: ''}
   83a63887-d545-437d-a274-a9e6b99da4c9: {ver: 1, file: spp-data-nifi.snapshot, comments: '',

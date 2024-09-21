@@ -13,6 +13,9 @@ flows:
   2183c9b5-3cfd-4bce-ada3-fb97700956f6: {ver: 1, file: LoadBSESecuritiesRefData.snapshot,
     comments: '', author: anonymous, created: 1726893332567, flowName: LoadBSESecuritiesRefData,
     flowDesc: ''}
+  079a136e-576e-4c50-b106-7f1d257fc88f: {ver: 1, file: LoadBSESensexLevels.snapshot,
+    comments: '', author: anonymous, created: 1726893438385, flowName: LoadBSESensexLevels,
+    flowDesc: ''}
   eab9a64d-89f1-48d0-986c-57e3090c0d4b: {ver: 1, file: CalculateSecurityReturns.snapshot,
     comments: '', author: anonymous, created: 1726893123540, flowName: CalculateSecurityReturns,
     flowDesc: ''}
